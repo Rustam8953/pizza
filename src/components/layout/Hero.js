@@ -3,7 +3,7 @@ import RightArrow from "../icons/Right";
 
 export default function Hero() {
     return(
-        <section className="hero">
+        <section className="hero mt-8 mb-8">
             <div className="py-12">
                 <h1 className="text-4xl font-semibold leading-32">
                     Everythink <br /> 
