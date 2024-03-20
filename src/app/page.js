@@ -1,7 +1,7 @@
-import About from "@/components/layout/About";
-import Contact from "@/components/layout/Contact";
-import Hero from "@/components/layout/Hero";
-import HomeMenu from "@/components/layout/HomeMenu";
+import About from "/src/components/layout/About";
+import Contact from "/src/components/layout/Contact";
+import Hero from "/src/components/layout/Hero";
+import HomeMenu from "/src/components/layout/HomeMenu";
 
 export default function Home() {
   return (
